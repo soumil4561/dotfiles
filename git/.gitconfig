@@ -1,0 +1,7 @@
+[user]
+	name = Soumil Singh
+	email = soumil.sps@gmail.com
+[credential]
+	helper = store
+[core]
+	editor = code --wait
