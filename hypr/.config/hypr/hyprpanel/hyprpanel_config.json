@@ -282,7 +282,7 @@
   "menus.dashboard.shortcuts.left.shortcut1.command": "firefox",
   "menus.dashboard.shortcuts.left.shortcut3.command": "code",
   "menus.dashboard.shortcuts.left.shortcut3.tooltip": "Visual Studio Code",
-  "menus.dashboard.shortcuts.left.shortcut4.command": "wofi --show drun",
+  "menus.dashboard.shortcuts.left.shortcut4.command": "wofi",
   "menus.dashboard.shortcuts.left.shortcut1.icon": "󰈹",
   "menus.dashboard.shortcuts.left.shortcut3.icon": "",
   "bar.media.show_active_only": false,
