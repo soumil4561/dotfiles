@@ -1,0 +1,5 @@
+insensitive=true
+columns=3
+dynamic_lines=true
+prompt=you again? what now
+mode=drun
