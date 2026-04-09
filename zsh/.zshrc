@@ -113,7 +113,7 @@ export PATH=$PATH:$HOME/go/bin
 
 export PYENV_ROOT="$HOME/.pyenv"
 [[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
-eval "$(pyenv init - bash)"
+eval "$(pyenv init - zsh)"
 
 alias wip='ip a | grep wlan0'
 
